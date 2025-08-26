@@ -1,5 +1,5 @@
 {
-  "name": "@greeendev/react-native-zebra-bluetooth-printer",
+  "name": "@sobble/react-native-zebra-bluetooth-printer",
   "version": "1.0.15",
   "description": "",
   "main": "index.js",
@@ -16,12 +16,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greeendev/react-native-zebra-bluetooth-printer"
+    "url": "git+https://github.com/Sobble-bot/react-native-zebra-bluetooth-printer.git"
   },
-  "author": "Anmol Jain <anmol@geekyants.com>",
+  "author": "Sobble-bot (https://github.com/Sobble-bot)",
   "contributors": [
     "Aditya Kumar <adityak@geekyants.com>",
-    "Vincent METTON <vincent@green.dev>"
+    "Vincent METTON <vincent@green.dev>",
+    "Anmol Jain <anmol@geekyants.com>"
   ],
   "license": "MIT",
   "peerDependencies": {
